@@ -27,5 +27,6 @@ if (answer.operator === "Addition") {
 }
 
 
+console.log("THE END");
 
 
